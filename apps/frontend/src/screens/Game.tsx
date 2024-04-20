@@ -25,7 +25,7 @@ export interface IMove {
 }
 
 interface Metadata {
-    blackPlayer: { id: string, name: string };
+    blackPlayer: { id: string, name:  string };
     whitePlayer: {id: string, name: string };
 }
 
